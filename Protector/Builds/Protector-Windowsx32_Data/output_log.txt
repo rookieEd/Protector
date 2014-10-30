@@ -1,0 +1,47 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 545 (ID=0x1243)
+    Vendor:   NVIDIA
+    VRAM:     3019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.424541 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1360.
+Total: 1.823917 ms (FindLiveObjects: 0.063424 ms CreateObjectMapping: 0.034461 ms MarkObjects: 0.496765 ms  DeleteObjects: 0.042160 ms)
+
+Platform assembly: C:\Users\Edward\Documents\Protector\Builds\Protector-Windowsx32_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.613845 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 656 unused Assets to reduce memory usage. Loaded Objects now: 163.
+Total: 4.123702 ms (FindLiveObjects: 0.026763 ms CreateObjectMapping: 0.024563 ms MarkObjects: 0.148846 ms  DeleteObjects: 2.444965 ms)
+
+UnloadTime: 0.469269 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2108.
+Total: 1.852513 ms (FindLiveObjects: 0.086521 ms CreateObjectMapping: 0.039961 ms MarkObjects: 0.508130 ms  DeleteObjects: 0.045093 ms)
+
+UnloadTime: 2.613608 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 961 unused Assets to reduce memory usage. Loaded Objects now: 175.
+Total: 5.894459 ms (FindLiveObjects: 0.039227 ms CreateObjectMapping: 0.034095 ms MarkObjects: 0.192840 ms  DeleteObjects: 4.532479 ms)
+
